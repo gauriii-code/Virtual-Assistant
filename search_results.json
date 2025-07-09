@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2025-04-22 22:41:27",
+        "type": "Google Search (Opened in Browser)",
+        "result": {
+            "query": "python",
+            "action": "Opened in browser"
+        }
+    },
+    {
+        "timestamp": "2025-04-22 22:42:23",
+        "type": "Wikipedia search for: search on  about world war first",
+        "result": {
+            "source": "Wikipedia",
+            "summary": "World War I or the First World War (28 July 1914 \u2013 11 November 1918), also known as the Great War, was a global conflict between two coalitions: the Allies (or Entente) and the Central Powers. Fighting took place mainly in Europe and the Middle East, as well as in parts of Africa and the Asia-Pacific, and in Europe was characterised by trench warfare; the widespread use of artillery, machine guns, and chemical weapons (gas); and the introductions of tanks and aircraft."
+        }
+    }
+]

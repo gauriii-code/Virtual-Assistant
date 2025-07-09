@@ -1,0 +1,102 @@
+[
+    {
+        "user": "how are you",
+        "assistant": "I'm doing well, thank you for asking!"
+    },
+    {
+        "user": "what can you do",
+        "assistant": "I can tell you the time and date, search Wikipedia and Google, play music, open websites, take screenshots, tell jokes, remember things for you, and have basic conversations."
+    },
+    {
+        "user": "how",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "how r u",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "how are you",
+        "assistant": "I'm doing well, thank you for asking!"
+    },
+    {
+        "user": "how r u",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "how are you",
+        "assistant": "I'm doing well, thank you for asking!"
+    },
+    {
+        "user": "User asked for time",
+        "assistant": "The current time is 10:39:36 PM"
+    },
+    {
+        "user": "what can you do",
+        "assistant": "I can tell you the time and date, search Wikipedia and Google, play music, open websites, take screenshots, tell jokes, remember things for you, and have basic conversations."
+    },
+    {
+        "user": "search on wikipedia about mahatma gandhi",
+        "assistant": "Hello, how can I help you today?"
+    },
+    {
+        "user": "wikipedia about mahatma gandhi",
+        "assistant": "Hello, how can I help you today?"
+    },
+    {
+        "user": "switch on google about py",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "google about python",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "on google about python",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "User asked to search on Google for: python",
+        "assistant": "Searching Google for 'python' in your browser."
+    },
+    {
+        "user": "i have to go for a morning walk tomorrow",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "User asked to remember: ",
+        "assistant": "Okay, I will remember that: i will go tommorow"
+    },
+    {
+        "user": "rakh dete ho",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    },
+    {
+        "user": "User asked to play music",
+        "assistant": "Error: \n    Error 305 for command:\n        open \"C:\\Users\\gauri\\Music\\VID-20230418-WA0001.mp4\"\n    Cannot specify extra characters after a string enclosed in quotation marks."
+    },
+    {
+        "user": "what can you do",
+        "assistant": "I can tell you the time and date, search Wikipedia and Google, play music, open websites, take screenshots, tell jokes, remember things for you, and have basic conversations."
+    },
+    {
+        "user": "User asked for time",
+        "assistant": "The current time is 10:44:56 PM"
+    },
+    {
+        "user": "User asked for date",
+        "assistant": "The current date is 22 April 2025"
+    },
+    {
+        "user": "User asked for screenshot",
+        "assistant": "Screenshot saved as c:\\Users\\gauri\\OneDrive\\Pictures\\Screenshots\\screenshot_20250422_224538.png."
+    },
+    {
+        "user": "how are you",
+        "assistant": "Feeling good and ready to assist!"
+    },
+    {
+        "user": "what are you doing",
+        "assistant": "Sorry, I'm not sure how to respond to that."
+    }
+]
